@@ -1,7 +1,7 @@
 <img alt="Hello"  height="100px" src="https://giffiles.alphacoders.com/519/51959.gif" />  
 
 #  I am [Tipu SultanEiko](eiko03.github.io) 👋
----
+
 
 ## I'm a Learner, Developer, and Project Manager!
 
