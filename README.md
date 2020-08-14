@@ -15,7 +15,7 @@
 ### My Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
 ---
