@@ -25,7 +25,7 @@
 
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=ISP-Management-System)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=Laravel-Multi-Auth-Login)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=Stock-Management-System)](https://github.com/anuraghazra/github-readme-stats)
 ### Technology Used  <img   width="18px" src="https://image.flaticon.com/icons/svg/888/888954.svg" />
 
 ---
