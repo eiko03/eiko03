@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning  Laravel, Rest API
 - 👯 I’m looking to collaborate on Different Backend Projects
 - 💬 Ask me about : Anything
-- 📫 How to reach me: <a href="mailto:tipusultan50r@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto:tipusultan50@gmail.com">Email</a>
 - 🥅 2020 Goals: Contribute more to Open Source projects
 ### My Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
 
