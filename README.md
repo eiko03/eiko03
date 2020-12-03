@@ -6,8 +6,8 @@
 ## I'm a Learner, Developer, and Project Manager!    <img   width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
 
 
-- 🔭 I’m currently working on [Arcade Studios BD](http://arcadestudiosbd.com).
-- 🌱 I’m currently learning  Laravel, Rest API
+- 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
+- 🌱 I’m currently learning  Laravel, Rest API, Vue
 - 👯 I’m looking to collaborate on Different Backend Projects
 - 💬 Ask me about : Anything
 - 📫 How to reach me: <a href="mailto:tipusultan50@gmail.com">Email</a>
