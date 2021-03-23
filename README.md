@@ -15,23 +15,23 @@
 ### My Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true)](https://github.com/eiko03)
 
 ### Wakatime PHPstorm Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03&layout=compact)](https://eiko03.github.io/)
 <br> <br>
 ### Some Repos <img   width="18px" src="https://image.flaticon.com/icons/svg/1832/1832056.svg" />
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=ISP-Management-System)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=ISP-Management-System)](https://github.com/eiko03/ISP-Management-System)
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=Stock-Management-System)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=Stock-Management-System)](https://github.com/eiko03/Stock-Management-System)
 ### Technology Used  <img   width="18px" src="https://image.flaticon.com/icons/svg/888/888954.svg" />
 
 ---
