@@ -19,7 +19,6 @@
 
 <br>
 
----
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
