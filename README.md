@@ -17,7 +17,7 @@
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true)](https://github.com/eiko03)
 
-### Wakatime Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
+<br>
 
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
