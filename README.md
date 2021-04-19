@@ -1,5 +1,5 @@
-[//]: <> (<img alt="Hello"  height="100px" src="https://media.tenor.com/images/15d907f7a4f96a9c94cd3ab17cc47463/tenor.gif" />)
-![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+<img alt="Hello"  height="100px" src="https://media.tenor.com/images/15d907f7a4f96a9c94cd3ab17cc47463/tenor.gif" />
+
 
 #  I am [Tipu Sultan Eiko](eiko03.github.io) 
 
@@ -13,6 +13,9 @@
 - 💬 Ask me about : Anything
 - 📫 How to reach me: <a href="mailto:tipusultan50@gmail.com">Email</a>
 - 🥅 2020 Goals: Contribute more to Open Source projects
+
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+
 ### My Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
 
 ---
