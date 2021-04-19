@@ -2,7 +2,7 @@
 
 
 #  I am [Tipu Sultan Eiko](eiko03.github.io) 
-
+![](https://visitor-badge.glitch.me/badge?page_id=eiko03.eiko03)
 
 ## I'm a Developer!    <img   width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
 
