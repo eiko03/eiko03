@@ -26,7 +26,7 @@
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03&layout=compact)](https://eiko03.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03)](https://eiko03.github.io/)
 <br> <br>
 ### Some Repos <img   width="18px" src="https://image.flaticon.com/icons/svg/1832/1832056.svg" />
 
