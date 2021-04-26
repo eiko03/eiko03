@@ -26,7 +26,7 @@
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
 
-### Github Stats <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/git.png" />
+### Github Stats <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/git1.png" />
 ---
 -  <a href="https://profile-summary-for-github.com/user/eiko03" target="_blank">***Github profile summary***</a>
 
