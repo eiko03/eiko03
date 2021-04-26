@@ -1,7 +1,7 @@
 <img alt="Hello"  height="100px" src="https://media.tenor.com/images/15d907f7a4f96a9c94cd3ab17cc47463/tenor.gif" />
 
 
-#  I am [Tipu Sultan Eiko](eiko03.github.io) 
+#  I am [Tipu Sultan Eiko](https://eiko03.github.io) 
 
 ## I'm a Developer!    <img   width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
 
@@ -26,7 +26,7 @@
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
 
-### Github Stats <img  width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+### Github Stats <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/git.png" />
 ---
 -  <a href="https://profile-summary-for-github.com/user/eiko03" target="_blank">***Github profile summary***</a>
 
