@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Different Backend Projects
 - 💬 Ask me about : Anything
 - 📫 How to reach me: <a href="mailto:tipusultan50@gmail.com">Email</a>
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
 
