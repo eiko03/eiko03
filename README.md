@@ -28,7 +28,7 @@
 
 ### Github Stats
 ---
-- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/eiko03">https://profile-summary-for-github.com/user/eiko03</a>
+-  <a href="https://profile-summary-for-github.com/user/eiko03">***Github profile summary***</a>
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiko03" alt="eiko03"/>
