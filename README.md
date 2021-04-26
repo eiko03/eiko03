@@ -25,6 +25,15 @@
 ### Weekly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/next-week.png" />
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
+
+### Github Stats
+
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/eiko03">https://profile-summary-for-github.com/user/eiko03</a>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eiko03" alt="eiko03"/>
+</p>
+
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
 ---
