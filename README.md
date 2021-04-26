@@ -36,7 +36,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiko03" alt="eiko03"/>
 </p>
 
----
 <p>
 <img src="https://activity-graph.herokuapp.com/graph?username=eiko03&bg_color=FFFFFF&color=696969&line=808080&point=000000&hide_border=true" alt="eiko03"/>
 </p>
