@@ -26,7 +26,7 @@
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
 
-### Monthly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/next-week.png" />
+### Monthly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/calendar.svg" />
 ---
 <p>
 <img src="https://activity-graph.herokuapp.com/graph?username=eiko03&bg_color=FFFFFF&color=696969&line=808080&point=000000&hide_border=true" alt="eiko03"/>
