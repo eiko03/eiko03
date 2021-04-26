@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
-- 🌱 I’m currently learning  Laravel, Rest API, Vue
+- 🌱 I’m currently learning  Laravel, Rest API, Vue , AWS
 - 👯 I’m looking to collaborate on Different Backend Projects
 - 💬 Ask me about : Anything
 - 📫 How to reach me: <a href="mailto:tipusultan50@gmail.com">Email</a>
