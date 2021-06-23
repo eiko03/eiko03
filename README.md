@@ -15,6 +15,9 @@
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eiko03)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### My Status    <img   width="18px" src="https://image.flaticon.com/icons/svg/3094/3094829.svg" />
 
 ---
