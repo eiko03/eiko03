@@ -15,6 +15,10 @@
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
 
+### ryo-ma/github-profile-trophy  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/trophy.svg" />
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=eiko03)](https://github.com/ryo-ma/github-profile-trophy)
 
 
