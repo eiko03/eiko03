@@ -3,7 +3,7 @@
 
 #  I am [Tipu Sultan Eiko](https://eiko03.github.io) 
 
-## I'm a Developer!    <img   width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
+## I'm a Developer!    <img width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
 
 
 - 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
