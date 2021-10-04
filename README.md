@@ -4,7 +4,7 @@
 #  I am [Tipu Sultan Eiko](https://eiko03.github.io) 
 
 ## I'm a Developer!    <img width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
-
+[![wakatime](https://wakatime.com/badge/user/ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c.svg)](https://wakatime.com/@ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c)
 
 - 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
 - 🌱 I’m currently learning  Laravel, Rest API, Vue , AWS
