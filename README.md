@@ -7,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c.svg)](https://wakatime.com/@ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c)
 
 - 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
-- 🌱 I’m currently learning  Laravel, Express, GraphQL, Vue , Serverless
+- 🌱 I’m currently learning  Laravel, Express, GraphQL, Vue , Serverless and Jenkins
 - 👯 I’m looking to collaborate on Different Backend Projects
 - 💬 Ask me about : Anything
 - 📫 How to reach me: <a href="mailto:tipusultan50@gmail.com">Email</a> , [LinkedIn](https://www.linkedin.com/in/tipusultaneiko).
