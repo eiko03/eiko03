@@ -44,12 +44,14 @@
 ---
 -  <a href="https://profile-summary-for-github.com/user/eiko03" target="_blank">***Github profile summary***</a>
 
-
-
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiko03" alt="eiko03"/>
 </p>
 
+
+
+### Stack Overflow <img   width="18px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
+[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591)](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591)
 
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
