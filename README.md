@@ -5,7 +5,7 @@
 
 ## I'm a Developer!    <img width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
 [![wakatime](https://wakatime.com/badge/user/ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c.svg)](https://wakatime.com/@ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c)
-[![LeetCode user eiko03](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Feiko03&logo=leetcode&logoColor=yellow)](https://leetcode.com/eiko03/)
+[![LeetCode user eiko03](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Feiko03&logo=leetcode&logoColor=yellow)](https://leetcode.com/eiko03/)
 
 - 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
 - 🌱 I’m currently learning  Laravel, Express, GraphQL, Vue , Serverless and Jenkins
