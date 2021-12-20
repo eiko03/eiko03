@@ -31,20 +31,20 @@
 
 <br>
 
-### Weekly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/next-week.png" />
+<!-- ### Weekly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/next-week.png" />
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiko03)](https://wakatime.com/@eiko03) -->
 
-### Monthly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/calendar.svg" />
+<!-- ### Monthly Status  <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/calendar.svg" />
 ---
 <p>
 <img src="https://activity-graph.herokuapp.com/graph?username=eiko03&bg_color=FFFFFF&color=696969&line=808080&point=000000&hide_border=true" alt="eiko03"/>
-</p>
+</p> -->
 
 
 ### Github Stats <img   width="18px" src="https://github.com/eiko03/eiko03/blob/master/git1.png" />
----
--  <a href="https://profile-summary-for-github.com/user/eiko03" target="_blank">***Github profile summary***</a>
+
+<!-- -  <a href="https://profile-summary-for-github.com/user/eiko03" target="_blank">***Github profile summary***</a> -->
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiko03" alt="eiko03"/>
@@ -55,17 +55,17 @@
 <!-- ### Stack Overflow <img   width="18px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
 [![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591)](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591) -->
 
-### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
+<!-- ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03)](https://eiko03.github.io/)
 <br> <br>
-### Some Repos <img   width="18px" src="https://image.flaticon.com/icons/svg/1832/1832056.svg" />
+<!-- ### Some Repos <img   width="18px" src="https://image.flaticon.com/icons/svg/1832/1832056.svg" /> -->
 
----
+<!-- ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=ISP-Management-System)](https://github.com/eiko03/ISP-Management-System)
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=Stock-Management-System)](https://github.com/eiko03/Stock-Management-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eiko03&repo=Stock-Management-System)](https://github.com/eiko03/Stock-Management-System) --> 
 ### Tech Stack <img   width="18px" src="https://image.flaticon.com/icons/svg/888/888954.svg" />
 
 ---
