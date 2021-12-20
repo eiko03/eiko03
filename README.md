@@ -6,6 +6,7 @@
 ## I'm a Developer!    <img width="25px" src="http://cdn.onlinewebfonts.com/svg/img_486505.png" />
 [![wakatime](https://wakatime.com/badge/user/ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c.svg)](https://wakatime.com/@ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c)
 [![LeetCode user eiko03](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Feiko03&logo=leetcode&logoColor=yellow)](https://leetcode.com/eiko03/)
+[![eiko StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5315591)](https://stackoverflow.com/users/5315591/tipu-sultan-eiko)
 
 - 🔭 I’m currently working on [IQuantile](https://www.iquantile.com/).
 - 🌱 I’m currently learning  Laravel, Express, GraphQL, Vue , Serverless and Jenkins
@@ -51,8 +52,8 @@
 
 
 
-### Stack Overflow <img   width="18px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
-[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591)](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591)
+<!-- ### Stack Overflow <img   width="18px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
+[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591)](https://stackoverflow-readme-profile.johannchopin.fr/profile/5315591) -->
 
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
