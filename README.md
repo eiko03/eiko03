@@ -19,7 +19,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=5315591" />
 ### My Status    
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true)
 ### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
 
 ---
