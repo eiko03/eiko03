@@ -20,7 +20,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=5315591" />
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true)
-### Commonly Used Language  <img   width="18px" src="https://image.flaticon.com/icons/svg/2620/2620974.svg" />
+### Commonly Used Language  
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
