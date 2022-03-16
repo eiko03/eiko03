@@ -1,9 +1,9 @@
-<img alt="Hello"  height="100px" src="https://giffiles.alphacoders.com/519/51959.gif" />  
+<img alt="Hello"  src="https://github.com/eiko03/eiko03/blob/output/dist/github-contribution-grid-snake.svg" />  
 
 #  I am [Tipu Sultan Eiko](eiko03.github.io) 
 
 
-## I'm a  Develope!    <img   width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
+## I'm a  Developer!    <img   width="18px" src="https://image.flaticon.com/icons/svg/3062/3062787.svg" />
 
 
 - 🔭 I’m currently working on [iQuantile](http://iquantile.com).
