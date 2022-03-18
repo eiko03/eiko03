@@ -34,7 +34,7 @@ jobs:
           
       - name: Update README.md
         run: |
-          sed 's/'    Snake updated at '.*/'    Snake updated at ${{ steps.date.outputs.date }}'/' README.md
+          sed -i 's/    Snake updated at .*/    Snake updated at ${{ steps.date.outputs.date }}/g' README.md
           
       - name: Push snake for display
         uses: stefanzweifel/git-auto-commit-action@v4
