@@ -28,7 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: /
-          commit_message: Snake updated at $(date +'%Y-%m-%dT%H:%M:%S')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -38,6 +37,7 @@ jobs:
           type: now
           from_branch: output
           target_branch: master
+          message: "Snake updated at $(date +'%Y-%m-%dT%H:%M:%S')"
           github_token: ${{ github.token }}
           
       - name: Delete output branch
