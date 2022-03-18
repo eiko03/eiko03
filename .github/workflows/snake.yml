@@ -16,17 +16,30 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
       
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: /
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Merge output -> master
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: staging
+          target_branch: uat
+          github_token: ${{ github.token }}
+          
+      - name: delete output branch
+        uses: SvanBoxel/delete-merged-branch@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
