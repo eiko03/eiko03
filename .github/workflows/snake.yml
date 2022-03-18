@@ -16,10 +16,6 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: '0'
         
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
