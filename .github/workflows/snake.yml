@@ -44,4 +44,3 @@ jobs:
         with:
           github_token: ${{github.token}}
           branches: output
-          suffix: -done
