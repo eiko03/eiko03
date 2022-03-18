@@ -1,4 +1,4 @@
-name: generate snake
+name: Generate-snake
 
 on:
   push:
@@ -27,11 +27,11 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           
       - name: Get datetime
-        id: ydate
+        id: date
         run: |
-          echo "::set-output name=ydate::$(date )"
+          echo "::set-output name=date::$(date )"
           
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Snake updated at ${{ steps.ydate.outputs.ydate }}"
+          commit_message: "Snake updated at ${{ steps.date.outputs.date }}"
       
