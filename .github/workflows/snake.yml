@@ -22,30 +22,34 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
-      
-
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
-        with:
-          target_branch: output
-          build_dir: /
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Remove snake from master
-        run: |
-          git --version
-          git config --global user.name 'Tipu Sultan Eiko'
-          git config --global user.email 'tipusultan50@gmail.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git rm -r --cached dist
-          git commit -am "remove snake file"
-          git push
           
       - name: Get datetime
         id: ydate
         run: |
           echo "::set-output name=ydate::$(date +'%Y-%m-%dT%H:%M:%S')"
+          
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Snake updated at ${{ steps.ydate.outputs.ydate }}"
+      
+
+#       - name: Push github-contribution-grid-snake.svg to the output branch
+#         uses: crazy-max/ghaction-github-pages@v2.5.0
+#         with:
+#           target_branch: output
+#           build_dir: /
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+#       - name: Remove snake from master
+#         run: |
+#           git --version
+#           git config --global user.name 'Tipu Sultan Eiko'
+#           git config --global user.email 'tipusultan50@gmail.com'
+#           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+#           git rm -r --cached dist
+#           git commit -am "remove snake file"
+#           git push
           
 #       - name: Remove File
 #         uses: JesseTG/rm@v1.0.2
@@ -53,17 +57,17 @@ jobs:
 #           path: /dist/github-contribution-grid-snake.svg
 
           
-      - name: Merge output -> master
-        uses: devmasx/merge-branch@master
-        with:
-          type: now
-          from_branch: output
-          target_branch: master
-          message: "Snake updated at ${{ steps.ydate.outputs.ydate }}"
-          github_token: ${{ github.token }}
+#       - name: Merge output -> master
+#         uses: devmasx/merge-branch@master
+#         with:
+#           type: now
+#           from_branch: output
+#           target_branch: master
+#           message: "Snake updated at ${{ steps.ydate.outputs.ydate }}"
+#           github_token: ${{ github.token }}
           
-      - name: Delete output branch
-        uses: dawidd6/action-delete-branch@v3
-        with:
-          github_token: ${{github.token}}
-          branches: output
+#       - name: Delete output branch
+#         uses: dawidd6/action-delete-branch@v3
+#         with:
+#           github_token: ${{github.token}}
+#           branches: output
