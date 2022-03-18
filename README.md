@@ -1,4 +1,6 @@
-![Snake](https://github.com/eiko03/eiko03/blob/master/dist/github-contribution-grid-snake.svg)\
+![Snake](https://github.com/eiko03/eiko03/blob/master/dist/github-contribution-grid-snake.svg) 
+
+<br>
 
 <sup>
   <b>
