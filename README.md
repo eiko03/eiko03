@@ -13,7 +13,6 @@
 [![LeetCode user eiko03](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Feiko03&logo=leetcode&logoColor=yellow)](https://leetcode.com/eiko03/) 
 [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5315591)](https://stackoverflow.com/users/5315591/tipu-sultan-eiko)
 ![Generate snake workflow](https://github.com/eiko03/eiko03/actions/workflows/snake.yml/badge.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## I'm a  Developer!    
 - 🔭 I’m currently working on [iQuantile](http://iquantile.com).
