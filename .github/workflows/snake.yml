@@ -18,8 +18,8 @@ jobs:
     
       - uses: actions/checkout@v2
         with:
-          ref: ${{ github.head_ref }}
-        
+          ref: ${{ github.head_ref }}    Snake updated at 
+            Snake updated at 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
@@ -30,6 +30,10 @@ jobs:
         id: date
         run: |
           echo "::set-output name=date::$(date )"
+          
+      - name: Update README.md
+        run: |
+          sed 's/    Snake updated at .*/    Snake updated at ${{ steps.date.outputs.date }}' README.md
           
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
