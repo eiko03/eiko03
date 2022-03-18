@@ -1,4 +1,4 @@
-![Snake](https://github.com/eiko03/eiko03/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake](https://github.com/eiko03/eiko03/blob/master/dist/github-contribution-grid-snake.svg)
 
 #  I am [Tipu Sultan Eiko](eiko03.github.io)  
 [![wakatime](https://wakatime.com/badge/user/ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c.svg)](https://wakatime.com/@ff27b732-3eb1-4392-91a3-8b2e7ca6cc8c) 
