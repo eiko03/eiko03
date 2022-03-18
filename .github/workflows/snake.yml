@@ -31,15 +31,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      - name: Push changes
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
+          git config --global user.name 'Tipu Sultan Eiko'
+          git config --global user.email 'tipusultan50@gmail.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git rm -r --cached dist
+          git commit -am "remove snake file"
+          git push
+          
       - name: Get datetime
         id: ydate
         run: |
           echo "::set-output name=ydate::$(date +'%Y-%m-%dT%H:%M:%S')"
           
-      - name: Remove File
-        uses: JesseTG/rm@v1.0.2
-        with:
-          path: /dist/github-contribution-grid-snake.svg
+#       - name: Remove File
+#         uses: JesseTG/rm@v1.0.2
+#         with:
+#           path: /dist/github-contribution-grid-snake.svg
 
           
       - name: Merge output -> master
