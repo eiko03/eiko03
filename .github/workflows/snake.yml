@@ -11,7 +11,7 @@ on:
   
 
 jobs:
-  generate:
+  Generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -39,7 +39,9 @@ jobs:
           target_branch: master
           github_token: ${{ github.token }}
           
-      - name: delete output branch
-        uses: SvanBoxel/delete-merged-branch@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete output branch
+        uses: dawidd6/action-delete-branch@v3
+        with:
+          github_token: ${{github.token}}
+          branches: output
+          suffix: -done
