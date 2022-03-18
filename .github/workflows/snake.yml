@@ -16,6 +16,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+        
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
@@ -33,6 +38,7 @@ jobs:
           
       - name: Remove snake from master
         run: |
+          git --version
           git config --global user.name 'Tipu Sultan Eiko'
           git config --global user.email 'tipusultan50@gmail.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
