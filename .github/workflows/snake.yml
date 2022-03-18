@@ -31,8 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Push changes
-        if: steps.git-check.outputs.modified == 'true'
+      - name: Remove snake from master
         run: |
           git config --global user.name 'Tipu Sultan Eiko'
           git config --global user.email 'tipusultan50@gmail.com'
