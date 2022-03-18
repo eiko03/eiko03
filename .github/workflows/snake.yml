@@ -36,6 +36,12 @@ jobs:
         run: |
           echo "::set-output name=ydate::$(date +'%Y-%m-%dT%H:%M:%S')"
           
+      - name: Remove File
+        uses: JesseTG/rm@v1.0.2
+        with:
+          path: /dist/github-contribution-grid-snake.svg
+
+          
       - name: Merge output -> master
         uses: devmasx/merge-branch@master
         with:
