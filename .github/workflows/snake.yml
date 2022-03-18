@@ -16,17 +16,18 @@ jobs:
 
     steps:
     
-      - uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v2
         with:
-          ref: ${{ github.head_ref }}    Snake updated at 
-            Snake updated at 
+          ref: ${{ github.head_ref }}    
+          
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
           
-      - name: Get datetime
+      - name: Get curent datetime
         id: date
         run: |
           echo "::set-output name=date::$(date )"
@@ -35,7 +36,8 @@ jobs:
         run: |
           sed 's/    Snake updated at .*/    Snake updated at ${{ steps.date.outputs.date }}' README.md
           
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Push snake for display
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Snake updated at ${{ steps.date.outputs.date }}"
       
