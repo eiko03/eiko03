@@ -28,6 +28,7 @@ jobs:
         with:
           target_branch: output
           build_dir: /
+          commit_message: Snake updated at $(date +'%Y-%m-%dT%H:%M:%S')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
