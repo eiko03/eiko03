@@ -1,4 +1,4 @@
-![](#-top)
+![](#)
 ![Snake](https://github.com/eiko03/eiko03/blob/master/dist/github-contribution-grid-snake.svg) 
 
 &nbsp;
@@ -66,4 +66,4 @@
 ![Meme](https://random-memer.herokuapp.com)
 
 &nbsp;
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-top)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
