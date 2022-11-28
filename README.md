@@ -67,7 +67,7 @@
 
 ### WAKA analytic
 ---
-![Waka](https://waka-analytic.herokuapp.com/eiko03)
+[![Wakatime Stats](https://waka-analytic.herokuapp.com/eiko03)](https://github.com/eiko03/wakatime-activity-chart)
 
 &nbsp;
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
