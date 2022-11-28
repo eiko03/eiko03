@@ -5,7 +5,7 @@
 
 <sup>
   <b>
-    Snake updated at Mon Nov 28 00:18:13 UTC 2022
+    Snake updated at Sun Nov 27 01:47:11 UTC 2022
   </b>
 </sup>
 
@@ -67,7 +67,7 @@
 
 ### WAKA analytic
 ---
-![Meme](https://waka-analytic.herokuapp.com/eiko03)
+![Anurag's GitHub stats](https://waka-analytic.herokuapp.com/eiko03)
 
 &nbsp;
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
