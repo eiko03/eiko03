@@ -61,13 +61,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### Have a laugh
----
-![Meme](https://random-memer.herokuapp.com)
 
-### WAKA analytic
+### WAKA analytic (self-made)
 ---
-[![Wakatime Stats](https://waka-analytic.herokuapp.com/eiko03)](https://github.com/eiko03/wakatime-activity-chart)
+[![Wakatime Stats](http://waka-analytic.herokuapp.com/eiko03)](https://github.com/eiko03/wakatime-activity-chart)
 
 &nbsp;
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
