@@ -67,7 +67,7 @@
 
 ### WAKA analytic
 ---
-![Anurag's GitHub stats](https://waka-analytic.herokuapp.com/eiko03)
+![Waka](https://waka-analytic.herokuapp.com/eiko03)
 
 &nbsp;
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
