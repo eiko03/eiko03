@@ -34,7 +34,7 @@ jobs:
         id: date
         run: |
           # echo "::set-output name=date::$(date )"
-          echo "name=date" >>$(date )
+          echo "name=date" >>$date
           
       - name: Update README.md
         run: |
