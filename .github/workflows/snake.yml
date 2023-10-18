@@ -33,15 +33,14 @@ jobs:
       - name: Get curent datetime
         id: date
         run: |
-          # echo "::set-output name=date::$(date )"
-          echo "name=date" >> $GITHUB_ENV
+          run: echo "START_TIME=$(TZ=":Asia/Singapore" date -R|sed 's/.....$//')" >> $GITHUB_ENV
           
       - name: Update README.md
         run: |
-          sed -i 's/    Snake updated at .*/    Snake updated at ${{ env.date }}/g' README.md
+          sed -i 's/    Snake updated at .*/    Snake updated at ${{ env.START_TIME }}/g' README.md
           
       - name: Push snake for display
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Snake updated at ${{ env.date }}"
+          commit_message: "Snake updated at ${{ env.START_TIME }}"
       
