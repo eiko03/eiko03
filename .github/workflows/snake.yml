@@ -33,7 +33,7 @@ jobs:
       - name: Get curent datetime
         id: date
         run: |
-          run: echo "START_TIME=$(TZ=":Asia/Singapore" date -R|sed 's/.....$//')" >> $GITHUB_ENV
+          echo "START_TIME=$(TZ=":Asia/Singapore" date -R|sed 's/.....$//')" >> $GITHUB_ENV
           
       - name: Update README.md
         run: |
