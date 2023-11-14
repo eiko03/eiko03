@@ -64,7 +64,7 @@
 
 ### WAKA analytic (self-made)
 ---
-[![Wakatime Stats](http://waka-analytic.herokuapp.com/eiko03)](https://github.com/eiko03/wakatime-activity-chart)
+[![Wakatime Stats](https://cooked-stormy-pyramid.glitch.me/eiko03)](https://github.com/eiko03/wakatime-activity-chart)
 
 &nbsp;
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
