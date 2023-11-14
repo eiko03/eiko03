@@ -35,7 +35,7 @@ jobs:
         run: |
           echo "START_TIME=$(TZ=":Asia/Singapore" date -R|sed 's/.....$//')" >> $GITHUB_ENV
 
-      - id: Get random from one to three
+      - name: Get random from one to three
         run: echo "DICE=$(((RANDOM % $((4- 1))) + 1))" >> $GITHUB_ENV
         shell: bash
           
