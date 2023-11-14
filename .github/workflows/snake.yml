@@ -28,7 +28,7 @@ jobs:
           outputs: |
             dist/1.svg
             dist/2.svg?palette=github-dark
-            dist/3.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/3.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       - name: Get curent datetime
         id: date
@@ -42,7 +42,7 @@ jobs:
       - name: Update README.md
         run: |
           sed -i 's/    Snake updated at .*/    Snake updated at ${{ env.START_TIME }}/g' README.md
-          sed -i 's/    ![Snake]( .*/    ![Snake](https://github.com/eiko03/eiko03/blob/master/dist/${{ env.DICE }}/g' README.md
+          sed -i 's/\!\[Snake\].*/\!\[Snake\]\(\https:\/\/github.com\/eiko03\/eiko03\/blob\/master\/dist\/${{ env.DICE }}.svg\)/g' README.md
           
       - name: Push snake for display
         uses: stefanzweifel/git-auto-commit-action@v4
