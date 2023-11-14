@@ -26,18 +26,23 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/1.svg
+            dist/2.svg?palette=github-dark
+            dist/3.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       - name: Get curent datetime
         id: date
         run: |
           echo "START_TIME=$(TZ=":Asia/Singapore" date -R|sed 's/.....$//')" >> $GITHUB_ENV
+
+      - id: Get random from one to three
+        run: echo "DICE=$(((RANDOM % $((4- 1))) + 1))" >> $GITHUB_ENV
+        shell: bash
           
       - name: Update README.md
         run: |
           sed -i 's/    Snake updated at .*/    Snake updated at ${{ env.START_TIME }}/g' README.md
+          sed -i 's/    ![Snake]( .*/    ![Snake](https://github.com/eiko03/eiko03/blob/master/dist/${{ env.DICE }}/g' README.md
           
       - name: Push snake for display
         uses: stefanzweifel/git-auto-commit-action@v4
