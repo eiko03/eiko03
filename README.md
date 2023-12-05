@@ -1,5 +1,5 @@
 ![](#)
-![Snake](https://github.com/eiko03/eiko03/blob/master/dist/2.svg)
+![Snake](https://raw.githubusercontent.com/eiko03/eiko03/master/dist/2.svg)
 
 &nbsp;
 
