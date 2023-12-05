@@ -42,7 +42,7 @@ jobs:
       - name: Update README.md
         run: |
           sed -i 's/    Snake updated at .*/    Snake updated at ${{ env.START_TIME }}/g' README.md
-          sed -i 's/\!\[Snake\].*/\!\[Snake\]\(\https:\/\/github.com\/eiko03\/eiko03\/blob\/master\/dist\/${{ env.DICE }}.svg\)/g' README.md
+          sed -i 's/\!\[Snake\].*/\!\[Snake\]\(\https:\/\/raw.githubusercontent.com\/eiko03\/eiko03\/master\/dist\/${{ env.DICE }}.svg\)/g' README.md
           
       - name: Push snake for display
         uses: stefanzweifel/git-auto-commit-action@v4
