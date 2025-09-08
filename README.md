@@ -35,9 +35,6 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=eiko03)](https://github.com/eiko03/github-profile-trophy)
 
-### Streak
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eiko03&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Tech stack
 ---
@@ -62,9 +59,4 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
-### WAKA analytic (self-made)
----
-[![Wakatime Stats](https://cooked-stormy-pyramid.glitch.me/eiko03)](https://github.com/eiko03/wakatime-activity-chart)
 
-&nbsp;
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#)
