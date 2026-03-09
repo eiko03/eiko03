@@ -16,7 +16,7 @@
 ![Generate snake workflow](https://github.com/eiko03/eiko03/actions/workflows/snake.yml/badge.svg)
 
 ## I'm a  Developer!    
-- 🔭 I’m currently working at [NGA911](https://nga911.com/).
+- 🔭 I’m currently working at [Metropolis Condominium Management, Inc.](https://nga911.com/).
 - 🌱 I’m currently learning  Laravel, GraphQl, Node, Jenkin, Docker
 - 👯 I’m looking to collaborate on Different Backend Projects
 - 💬 Ask me about : Anything
