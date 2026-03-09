@@ -23,18 +23,6 @@
 - 📫 How to reach me: <a href="mailto:tipusultan50r@gmail.com">Email</a>
 - 🥅 Goals: Contribute more to Open Source projects
 
-### My status    
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiko03&show_icons=true)
-
-### Commonly used language  
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiko03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Trophy
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=eiko03)](https://github.com/eiko03/github-profile-trophy)
-
 
 ### Tech stack
 ---
