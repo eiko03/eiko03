@@ -1,11 +1,11 @@
 ![](#)
-![Snake](https://raw.githubusercontent.com/eiko03/eiko03/master/dist/1.svg)
+![Snake](https://raw.githubusercontent.com/eiko03/eiko03/master/dist/3.svg)
 
 &nbsp;
 
 <sup>
   <b>
-    Snake updated at Wed, 15 Apr 2026 10:55:09 
+    Snake updated at Thu, 16 Apr 2026 11:22:01 
   </b>
 </sup>
 
